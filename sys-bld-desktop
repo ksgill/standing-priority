@@ -1,0 +1,11 @@
+#!/bin/bash
+
+sudo apt update
+sudo apt dist-upgade
+sudo apt autoclean
+sudo apt autoremove
+
+Write basic scipts to /usr/local/bin
+
+Install vim terminator iptables-persistent 
+Configure iptables 
